@@ -10,7 +10,7 @@ public class Recursion {
             return;
         }
 
-        //Count is x (as defined in main method), so skips above conditional loop.
+        //Count is x (as defined in main method), so skips above conditional loop
 
         sayHi(count - 1); //calls recurisvely with count parameter of 2.
     }
