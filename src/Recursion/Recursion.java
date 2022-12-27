@@ -1,3 +1,5 @@
+package Recursion;
+
 public class Recursion {
     public static void main(String[] args) {
         sayHi(1000); //will call sayHi() 3 times.
