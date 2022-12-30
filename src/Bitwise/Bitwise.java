@@ -37,4 +37,11 @@ public class Bitwise {
 
 
     }
+
+    public void XOR() {
+        int value1 = 6;
+        int value2 = 5;
+        int result = value1 ^ value2;
+        System.out.println(result);
+    }
 }

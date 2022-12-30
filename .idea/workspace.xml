@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf328bb9-07bb-4def-8c10-6da410453fd5" name="Changes" comment="Recursion">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bitwise/Bitwise.java" afterDir="false" />
+    <list default="true" id="cf328bb9-07bb-4def-8c10-6da410453fd5" name="Changes" comment="Added bitwise, refactored recursion.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bitwise/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bitwise/Bitwise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671806681840</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added bitwise, refactored recursion.">
+      <created>1672170498787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672170498787</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursion" />
+    <MESSAGE value="Added bitwise, refactored recursion." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bitwise, refactored recursion." />
   </component>
 </project>
