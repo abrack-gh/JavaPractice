@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf328bb9-07bb-4def-8c10-6da410453fd5" name="Changes" comment="Added bitwise, refactored recursion.">
+    <list default="true" id="cf328bb9-07bb-4def-8c10-6da410453fd5" name="Changes" comment="Refactor">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/momento/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/momento/EditorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/momento/History.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bitwise/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bitwise/Bitwise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672170498787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactor">
+      <created>1672419386997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672419386997</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Recursion" />
     <MESSAGE value="Added bitwise, refactored recursion." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bitwise, refactored recursion." />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
 </project>
